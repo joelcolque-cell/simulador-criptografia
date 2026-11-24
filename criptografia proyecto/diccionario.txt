@@ -1,0 +1,23 @@
+# Diccionario de contraseñas comunes (ejemplo educativo)
+# Una palabra por línea. Las líneas que empiezan con # se ignoran.
+123456
+password
+12345678
+1234
+qwerty
+abc123
+clave
+contraseña
+admin
+letmein
+bolivia
+cochabamba
+uab
+secreto
+hola
+sol123
+futbol
+amor2024
+123123
+111111
+misclave
